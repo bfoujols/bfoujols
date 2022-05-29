@@ -1,16 +1,13 @@
-### Hi there 👋
+### Benoit Foujols - ORT Sup' Montreuil - Académie de Créteil - France :st_martin:
 
-<!--
-**bfoujols/bfoujols** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :basecampy: Professeur Lead Tech (Architecture, Dev Tech, Dev) à ORT Sup' Campus
+- :teacher: Professeur en Management Humain à UPEC/IAE Gustave Eiffel
+- :basecamp: Entre Paris / Lyon
+- :mortar_board: De formation Epitech
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
