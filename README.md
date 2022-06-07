@@ -7,7 +7,7 @@
 - :mortar_board: De formation {Epitech} avec +15 ans R&D/CTO
 - :climbing: Extra : Brevet d'état d'escalade
 
-![signature](https://github.com/bfoujols/bfoujols/blob/main/assets/bfoujols-sign-all-fine.png?raw=true)
+![signature](https://github.com/bfoujols/bfoujols/blob/main/assets/bfoujols-sign-full-fine.png?raw=true)
 
 
 
