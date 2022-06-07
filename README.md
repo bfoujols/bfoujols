@@ -1,6 +1,6 @@
 ### Benoit Foujols - France :st_martin:
 
-- :basecampy: Professeur & responsable pédagogique (Architecture, Dev, DevOps, CyberSec) à ORT Sup' Campus / 3IL Ingénieurs
+- :basecampy: Professeur & responsable pédagogique (Archi, Dev, DevOps, CyberSec) à ORT Sup' Campus / 3IL Ingénieurs
 - :teacher: Professeur en Management Humain à UPEC / IAE Gustave Eiffel
 - :rocket: Niveau d'enseignement : BTS, Licence et Master
 - :basecamp: Entre Paris / Lyon
