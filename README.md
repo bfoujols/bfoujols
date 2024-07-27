@@ -5,7 +5,7 @@
 - :rocket: Niveau d'enseignement : BTS, Licence et Master
 - :basecamp: Entre Paris / Lyon
 - :mortar_board: De formation {Epitech} avec +15 ans R&D/CTO
-- :climbing: Extra : Brevet d'état d'escalade
+- :climbing: Moniteur d'escalade
 
 
 
