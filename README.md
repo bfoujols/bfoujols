@@ -1,3 +1,5 @@
+![separe](https://raw.githubusercontent.com/studoo-app/.github/main/profile/studoo-banner-logo.png)
+
 ### Benoit Foujols - France :st_martin:
 
 - :basecampy: Professeur & responsable pédagogique (Archi, Dev, DevOps, CyberSec)
