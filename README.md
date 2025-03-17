@@ -9,7 +9,6 @@
 - :mortar_board: Formation {Epitech} avec +15 ans R&D/CTO
 - :climbing: Moniteur d'escalade
 
-<br>
 <details>
 <summary><b>Statistiques</b></summary>
 <img src="https://github.com/bfoujols/bfoujols/raw/main/github-metrics.svg" alt="Benoit Foujols" />
