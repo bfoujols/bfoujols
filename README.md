@@ -11,6 +11,6 @@
 
 <br>
 <details>
-<summary>Statistiques</summary>
-![github-metrics.svg](github-metrics.svg)
+<summary><b>Statistiques</b></summary>
+<img align="right" width="250" src="https://github.com/bfoujols/bfoujols/raw/main/github-metrics.svg" alt="Benoit Foujols" />
 </details>
