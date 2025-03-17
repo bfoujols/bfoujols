@@ -12,5 +12,5 @@
 <br>
 <details>
 <summary><b>Statistiques</b></summary>
-<img width="250" src="https://github.com/bfoujols/bfoujols/raw/main/github-metrics.svg" alt="Benoit Foujols" />
+<img src="https://github.com/bfoujols/bfoujols/raw/main/github-metrics.svg" alt="Benoit Foujols" />
 </details>
