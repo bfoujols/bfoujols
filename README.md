@@ -9,6 +9,8 @@
 - :mortar_board: Formation {Epitech} avec +15 ans R&D/CTO
 - :climbing: Moniteur d'escalade
 
-### Statistique
+<br>
+<details>
+<summary>Statistiques</summary>
 ![github-metrics.svg](github-metrics.svg)
-
+</details>
