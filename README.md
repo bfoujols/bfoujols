@@ -2,12 +2,12 @@
 
 ### Benoit Foujols - France :st_martin:
 
-- :basecampy: Professeur & responsable pédagogique (Archi, Dev, DevOps, CyberSec)
-- :teacher: Professeur en Management Humain à UPEC / IAE Gustave Eiffel
-- :rocket: Niveau d'enseignement : BTS, Licence et Master
-- :basecamp: Entre Paris / Lyon
-- :mortar_board: Formation {Epitech} avec +15 ans R&D/CTO
-- :climbing: Moniteur d'escalade
+- :basecampy: Professor & Academic Manager (Archi, Dev, DevOps, CyberSec)
+- 🧑‍🏫 Professor of Human Resources Management at UPEC / IAE Gustave Eiffel
+- 🚀 Teaching Level: BTS, Bachelor's, and Master's
+- :basecamp: Between Paris and Lyon
+- 🎓 {Epitech} training with over 15 years of R&D/CTO
+- 🧗 Climbing Instructor
 
 <details>
 <summary><b>Statistiques</b></summary>
